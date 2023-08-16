@@ -1,5 +1,8 @@
-### Hi there 👋
+### Halo Semua 👋
 
+Perkenalkan nama saya **Didah Rosyidah**.\
+Saya seorang **Mahasiswa** di [Universitas Indraprasta PGRI](https://unindra.ac.id/).\
+Saya diterima dalam Program Kampus Merdeka di [Dicoding](https://www.dicoding.com/) dengan skema Front-End & Back-End Developer.\
 <!--
 **DidahR/DidahR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
